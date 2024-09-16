@@ -25,4 +25,4 @@ To use these materials, you'll need:
 
 **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/your-repo.git](https://github.com/jeanbotz/dscourse.git)
+git clone [https://github.com/jeanbotz/dscourse.git](https://github.com/jeanbotz/dscourse.git)
